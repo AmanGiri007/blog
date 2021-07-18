@@ -11,6 +11,7 @@ gunicorn = "==19.9.0"
 whitenoise = "==3.3.1"
 dj-static = "*"
 dj-database-url = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.9"
